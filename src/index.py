@@ -37,8 +37,7 @@ def virheet():
 
     print("Varasto(100.0, -50.7)")
     huono = Varasto(100.0, -50.7)
-    print(huono)  
-
+    print(huono)
 
 def loput(olutta, mehua):
     print(f"Olutvarasto: {olutta}")
